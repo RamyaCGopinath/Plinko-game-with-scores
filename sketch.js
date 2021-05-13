@@ -98,7 +98,6 @@ function draw() {
      
      divisions[k].display();
    }
-   console.log(count);
    if(gameState=="end"){
      text("GAME OVER!",300,230);
    }
